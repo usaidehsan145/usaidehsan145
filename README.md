@@ -79,9 +79,10 @@ Recent Computer Science graduate from FAST University, eager to dive into the IT
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Usaid's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidehsan145&layout=compact&theme=dark" alt="Usaid's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&card_width=400" alt="Usaid's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidehsan145&layout=compact&theme=dark&card_width=400" alt="Usaid's Top Languages" />
 </p>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/usaidehsan145?style=social) ![GitHub stars](https://img.shields.io/github/stars/usaidehsan145?style=social)
 
