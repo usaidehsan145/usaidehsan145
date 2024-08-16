@@ -2,22 +2,16 @@
 
 **Software Engineer | MERN Stack Developer | Machine Learning Enthusiast**
 
-Recent Computer Science graduate from FAST University, driven by a strong passion for technology and innovation. With a solid foundation in Machine Learning and Web Development, I am eager to apply my skills in real-world projects and contribute meaningfully to the IT industry. I am actively seeking entry-level opportunities where I can grow professionally, collaborate with like-minded individuals, and make a significant impact through my work.
+Recent Computer Science graduate from FAST University, eager to dive into the IT industry. With a solid foundation in Machine Learning and Web Development, I am excited to apply my skills in real-world projects. My passion for technology drives me to constantly learn and grow, and I am keen on finding entry-level opportunities where I can contribute meaningfully and develop professionally. My experiences in machine learning internships and software development roles have equipped me with practical skills that I am ready to bring to new challenges.
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 <p align="left">
-  <a href="mailto:usaidehsan01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://linkedin.com/in/usaid-ehsan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-  </a>
+  <a href="mailto:usaidehsan01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/usaid-ehsan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://usaidehsan.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -85,29 +79,12 @@ Recent Computer Science graduate from FAST University, driven by a strong passio
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Usaid's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Usaid's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidehsan145&layout=compact&theme=dark" alt="Usaid's Top Languages" />
 </p>
 
-### **Commits & Contributions**
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaidehsan145&theme=dark" alt="Usaid's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&count_private=true&show_icons=true&theme=dark" alt="Usaid's Contributions" />
-</p>
-
-### **GitHub Activity Graph**
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=usaidehsan145&theme=react-dark" alt="Usaid's GitHub Activity Graph" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/usaidehsan145?style=social) ![GitHub stars](https://img.shields.io/github/stars/usaidehsan145?style=social)
 
 ---
 
-## 🎯 Goals for 2024
-
-- Enhance my expertise in **Security Research**.
-- Contribute to open-source **MERN** stack projects.
-- Develop advanced **Machine Learning** models using **TensorFlow** and **PyTorch**.
-
----
-
-Feel free to connect with me for any collaboration or discussion!
+*Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.*
