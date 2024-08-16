@@ -66,6 +66,26 @@ Welcome to my GitHub profile! Below is a snapshot of my skills and expertise.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidehsan145&layout=compact&theme=dark" />
+</p>
+
+## 🏆 GitHub Streak
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaidehsan145&theme=dark" />
+</p>
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 📫 Contact
 
 - **Email:** [usaidehsan03@gmail.com](mailto:usaidehsan03@gmail.com)
