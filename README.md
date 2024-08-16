@@ -69,38 +69,20 @@ Welcome to my GitHub profile! Below is a snapshot of my skills and expertise.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidehsan145&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Usaid's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidehsan145&layout=compact&theme=dark" alt="Usaid's Top Languages" />
 </p>
 
-## 🏆 GitHub Contributions
-
+### **Commits & Contributions**
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaidehsan145&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&count_private=true&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaidehsan145&theme=dark" alt="Usaid's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&count_private=true&show_icons=true&theme=dark" alt="Usaid's Contributions" />
 </p>
 
-## 📂 Featured Projects
-
-Here are some of my key projects:
-
-### Project 1: MERN Stack To-Do App
-- **Description:** A full-featured to-do app using MongoDB, Express.js, React, and Node.js.
-- **Repo:** [MERN To-Do App](https://github.com/usaidehsan145/mern-todo-app)
-- **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/usaidehsan145/mern-todo-app?style=social)
-- **Forks:** ![GitHub Repo forks](https://img.shields.io/github/forks/usaidehsan145/mern-todo-app?style=social)
-
-### Project 2: Machine Learning Model
-- **Description:** A machine learning model for predicting housing prices using Scikit-Learn.
-- **Repo:** [Housing Price Predictor](https://github.com/usaidehsan145/housing-price-predictor)
-- **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/usaidehsan145/housing-price-predictor?style=social)
-- **Forks:** ![GitHub Repo forks](https://img.shields.io/github/forks/usaidehsan145/housing-price-predictor?style=social)
-
-### Project 3: Dynamic Array Implementation in C++
-- **Description:** A C++ library for dynamic arrays, including operations like insertion, deletion, and resizing.
-- **Repo:** [Dynamic Array in C++](https://github.com/usaidehsan145/dynamic-array-cpp)
-- **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/usaidehsan145/dynamic-array-cpp?style=social)
-- **Forks:** ![GitHub Repo forks](https://img.shields.io/github/forks/usaidehsan145/dynamic-array-cpp?style=social)
+### **GitHub Activity Graph**
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=usaidehsan145&theme=react-dark" alt="Usaid's GitHub Activity Graph" />
+</p>
 
 ---
 
