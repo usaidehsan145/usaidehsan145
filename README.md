@@ -78,8 +78,31 @@ Welcome to my GitHub profile! Below is a snapshot of my skills and expertise.
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaidehsan145&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&count_private=true&show_icons=true&theme=dark" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=usaidehsan145&theme=github" />
 </p>
+
+## 📂 Featured Projects
+
+Here are some of my key projects:
+
+### Project 1: MERN Stack To-Do App
+- **Description:** A full-featured to-do app using MongoDB, Express.js, React, and Node.js.
+- **Repo:** [MERN To-Do App](https://github.com/usaidehsan145/mern-todo-app)
+- **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/usaidehsan145/mern-todo-app?style=social)
+- **Forks:** ![GitHub Repo forks](https://img.shields.io/github/forks/usaidehsan145/mern-todo-app?style=social)
+
+### Project 2: Machine Learning Model
+- **Description:** A machine learning model for predicting housing prices using Scikit-Learn.
+- **Repo:** [Housing Price Predictor](https://github.com/usaidehsan145/housing-price-predictor)
+- **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/usaidehsan145/housing-price-predictor?style=social)
+- **Forks:** ![GitHub Repo forks](https://img.shields.io/github/forks/usaidehsan145/housing-price-predictor?style=social)
+
+### Project 3: Dynamic Array Implementation in C++
+- **Description:** A C++ library for dynamic arrays, including operations like insertion, deletion, and resizing.
+- **Repo:** [Dynamic Array in C++](https://github.com/usaidehsan145/dynamic-array-cpp)
+- **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/usaidehsan145/dynamic-array-cpp?style=social)
+- **Forks:** ![GitHub Repo forks](https://img.shields.io/github/forks/usaidehsan145/dynamic-array-cpp?style=social)
+
+---
 
 ## 🎯 Goals for 2024
 
@@ -92,11 +115,9 @@ Welcome to my GitHub profile! Below is a snapshot of my skills and expertise.
 ## 📫 Contact
 
 - **Email:** [usaidehsan03@gmail.com](mailto:usaidehsan03@gmail.com)
-- **LinkedIn:** [Usaid Ehsan](https://www.linkedin.com/in/usaid-ehsan)
-- **GitHub:** [usaidehsan145](https://github.com/usaidehsan145)
+- **LinkedIn:** [linkedin.com/in/usaid-ehsan](https://linkedin.com/in/usaid-ehsan)
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.*
+Feel free to connect with me for any collaboration or discussion!
 
-![GitHub followers](https://img.shields.io/github/followers/usaidehsan145?style=social) ![GitHub stars](https://img.shields.io/github/stars/usaidehsan145?style=social)
