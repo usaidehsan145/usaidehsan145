@@ -83,9 +83,28 @@ Recent Computer Science graduate from FAST University, eager to dive into the IT
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidehsan145&layout=compact&theme=dark&card_width=400" alt="Usaid's Top Languages" />
 </p>
 
+---
 
-![GitHub followers](https://img.shields.io/github/followers/usaidehsan145?style=social) ![GitHub stars](https://img.shields.io/github/stars/usaidehsan145?style=social)
+## 📈 Contribution Activity
+
+<p align="left">
+  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=usaidehsan145&theme=github)
+</p>
+
+## 🔥 Streak Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaidehsan145&theme=dark" alt="Usaid's Streak Stats" />
+</p>
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=usaidehsan145&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
 *Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.*
+
+![GitHub followers](https://img.shields.io/github/followers/usaidehsan145?style=social) ![GitHub stars](https://img.shields.io/github/stars/usaidehsan145?style=social)
