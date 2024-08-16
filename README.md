@@ -73,16 +73,19 @@ Welcome to my GitHub profile! Below is a snapshot of my skills and expertise.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidehsan145&layout=compact&theme=dark" />
 </p>
 
-## 🏆 GitHub Streak
+## 🏆 GitHub Contributions
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaidehsan145&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usaidehsan145&count_private=true&show_icons=true&theme=dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=usaidehsan145&theme=github" />
 </p>
 
-## 📈 Recent Activity
+## 🎯 Goals for 2024
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+- Enhance my expertise in **Security Research**.
+- Contribute to open-source **MERN** stack projects.
+- Develop advanced **Machine Learning** models using **TensorFlow** and **PyTorch**.
 
 ---
 
