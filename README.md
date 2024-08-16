@@ -2,7 +2,23 @@
 
 **Software Engineer | MERN Stack Developer | Machine Learning Enthusiast**
 
-Welcome to my GitHub profile! Below is a snapshot of my skills and expertise.
+Recent Computer Science graduate from FAST University, driven by a strong passion for technology and innovation. With a solid foundation in Machine Learning and Web Development, I am eager to apply my skills in real-world projects and contribute meaningfully to the IT industry. I am actively seeking entry-level opportunities where I can grow professionally, collaborate with like-minded individuals, and make a significant impact through my work.
+
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:usaidehsan01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://linkedin.com/in/usaid-ehsan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
@@ -94,12 +110,4 @@ Welcome to my GitHub profile! Below is a snapshot of my skills and expertise.
 
 ---
 
-## 📫 Contact
-
-- **Email:** [usaidehsan03@gmail.com](mailto:usaidehsan03@gmail.com)
-- **LinkedIn:** [linkedin.com/in/usaid-ehsan](https://linkedin.com/in/usaid-ehsan)
-
----
-
 Feel free to connect with me for any collaboration or discussion!
-
